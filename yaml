@@ -1,0 +1,13 @@
+
+---
+
+## ✅ Final Steps to Deploy
+
+### 🔹 1. Push to GitHub
+
+```bash
+git init
+git remote add origin https://github.com/yourusername/gesture-math-solver.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
